@@ -135,7 +135,7 @@ const Footer = () => {
         </div>
         {/* Copyright */}
         <div className="py-8 flex flex-wrap space-y-3 justify-center md:justify-between items-center border-t ">
-          <p className="text-sm">© {new Date().getFullYear()} <a href="https://eyasinarafat.com" className="underline" target="_blank" rel="noreferrer">khalid Saifullah</a>. No Rights Reserved 🙂. Build for fun.</p>
+          <p className="text-sm">© {new Date().getFullYear()} <a href="https://eyasinarafat.com" className="underline" target="_blank" rel="noreferrer">Eyasin Arafat</a>. No Rights Reserved 🙂. Build for fun.</p>
           <img src="/images/footer-new-payment.png" alt="" />
         </div>
       </div>
